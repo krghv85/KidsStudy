@@ -1,0 +1,10 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="dash_item_hw">100dp</dimen>
+    <dimen name="edittext_padding">8dp</dimen>
+    <dimen name="mic_margin">8dp</dimen>
+
+
+
+
+</resources>

@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">KidsStudy</string>
+    <string name="hey_dude">Hey dude whats up</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="speech_prompt">Say something&#8230;</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+    <string name="tap_on_mic">Tap on mic to speak</string>
+
+    <array name="dash_item">
+        <item>ABCD</item>
+        <item>Counting</item>
+        <item>Tabels</item>
+        <item>अ आ</item>
+        <item>Animals</item>
+        <item>Birds</item>
+        <item>Body Name</item>
+        <item>Colors</item>
+        <item>Days Name</item>
+        <item>Flowers</item>
+        <item>Fruits</item>
+        <item>Months Name</item>
+        <item>Numbers</item>
+        <item>Shapes</item>
+        <item>Vegetables</item>
+        <item>Dry Fruits</item>
+    </array>
+
+    <array name="tables_item">
+        <item>Table of 2</item>
+        <item>Table of 3</item>
+        <item>Table of 4</item>
+        <item>Table of 5</item>
+        <item>Table of 6</item>
+        <item>Table of 7</item>
+        <item>Table of 8</item>
+        <item>Table of 9</item>
+        <item>Table of 10</item>
+        <item>Table of 11</item>
+        <item>Table of 12</item>
+        <item>Table of 13</item>
+        <item>Table of 14</item>
+        <item>Table of 15</item>
+        <item>Table of 16</item>
+        <item>Table of 17</item>
+        <item>Table of 18</item>
+        <item>Table of 19</item>
+        <item>Table of 20</item>
+    </array>
+
+</resources>
